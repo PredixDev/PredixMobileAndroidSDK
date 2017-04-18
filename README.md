@@ -4,3 +4,8 @@ The Predix Mobile SDK is a comprehensive suite of tools, frameworks and source e
 * [Running the Predix Mobile Sample App] (https://www.predix.io/docs#EGUzWwcC)
 * [Creating a Mobile Hello World Web App] (https://www.predix.io/docs#DrBWuHkl) 
 
+# Requires Marshmallow (6.0) and above.
+
+For overall Predix Mobile SDK documentation and features please see https://github.com/PredixDev/PredixMobileSDK
+For documentation on services and features please see the JavaSDK https://github.com/PredixDev/PredixMobileJavaSDK
+
