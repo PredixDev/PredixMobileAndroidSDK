@@ -6,6 +6,6 @@ The Predix Mobile SDK is a comprehensive suite of tools, frameworks and source e
 
 # Requires Marshmallow (6.0) and above.
 
-For overall Predix Mobile SDK documentation and features please see https://github.com/PredixDev/PredixMobileSDK
-For documentation on services and features please see the JavaSDK https://github.com/PredixDev/PredixMobileJavaSDK
+- For overall Predix Mobile SDK documentation and features please see https://github.com/PredixDev/PredixMobileSDK
+- For documentation on services and features please see the JavaSDK https://github.com/PredixDev/PredixMobileJavaSDK
 
